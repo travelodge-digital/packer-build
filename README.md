@@ -5,7 +5,7 @@ A Docker container image that includes Packer and Ansible for infrastructure pro
 ## Overview
 
 This repository provides a containerized environment with:
-- **Packer** (v1.11.2) - for building machine images
+- **Packer** (v1.14.2) - for building machine images
 - **Ansible** (v9.x) - for configuration management and provisioning
 - **Amazon Linux 2023** base image with essential system tools
 
