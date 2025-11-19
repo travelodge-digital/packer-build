@@ -43,6 +43,7 @@ docker build -t packer-build .
 
 - **Packer** 1.11.2 - Infrastructure as Code for building images
 - **Ansible** 9.x - Configuration management and application deployment
+- **Ant** 1.10.x - Build tool for legacy app
 - **System utilities**: curl, unzip, openssh-clients, python3-pip
 
 ## CI/CD
